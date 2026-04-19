@@ -26,3 +26,9 @@
 [submodule "where-money-go"]
 	path = where-money-go
 	url = git@github.com:chanjunren/where-money-go.git
+[submodule "dumpies"]
+	path = dumpies
+	url = git@github.com:chanjunren/dumpies.git
+[submodule "backies"]
+	path = backies
+	url = git@github.com:chanjunren/backies.git
